@@ -165,7 +165,7 @@ a {
 
 #screenshot {
   width: 68vw;
-  max-width: 1050px;
+  max-width: 800px;
   margin: 40px;
   box-shadow: 0 0 50px rgba(128, 128, 128, 0.3);
   min-width: 500px;
